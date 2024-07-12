@@ -8,7 +8,8 @@ To forecast item-wise sales for an online retail store
 ## Dataset used
 
 The dataset has been taken from UCI Machine Learning Repository at: 
-https://archive.ics.uci.edu/ml/datasets/Online%20Retail
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 
 The dataset contains following attributes:
 
@@ -36,11 +37,11 @@ To understand the whole process these links can be followed in order:
 
 [Data Wrangling](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/A.%20Data%20Aquisition%20%26%20Wrangling.ipynb)
 
-[Exploratory Data Analysis](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/B.%20EDA.ipynb)
+[Exploratory Data Analysis](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/B.%20EDA.ipynb)
 
-[Statistical Inference](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/C.%20Inferential%20Statistics.ipynb)
+[Statistical Inference](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/C.%20Inferential%20Statistics.ipynb)
 
-[Machine Learning](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/D.%20Machine%20Learning.ipynb)
+[Machine Learning](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/D.%20Machine%20Learning.ipynb)
 
 ## Project Report
 Click [here](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/Capstone%20Project%202_%20Final%20Report.pdf) for the full project report.
