@@ -34,7 +34,7 @@ Ensemble Models-Random Forest, Gradient Boost
 ## Detailed Process
 To understand the whole process these links can be followed in order:
 
-[Data Wrangling](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/A.%20Data%20Aquisition%20%26%20Wrangling.ipynb)
+[Data Wrangling](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/A.%20Data%20Aquisition%20%26%20Wrangling.ipynb)
 
 [Exploratory Data Analysis](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/B.%20EDA.ipynb)
 
