@@ -44,7 +44,7 @@ To understand the whole process these links can be followed in order:
 [Machine Learning](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/D.%20Machine%20Learning.ipynb)
 
 ## Project Report
-Click [here](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/Capstone%20Project%202_%20Final%20Report.pdf) for the full project report.
+Click [here](https://github.com/manicandone99/Sales_Prediction_Online_Retail_Store/blob/main/Consolidated_Report.pdf) for the full project report.
 
 ## Result
 The objective of this project was to predict sales for each item in a month. The model we came up with gives us decent results with RMSE of 23 on test data.
